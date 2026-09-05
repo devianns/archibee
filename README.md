@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://gitlab.com/archibee" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="40">
-  </a>
-</div>
-
-<div align="center">
 
 <h1>ARCHIBEE</h1>
 
-<p><code>COLLECTING · CATALOGING · PRESERVING</code></p>
+<p>
+<div align="center">
+  <a href="https://gitlab.com/archibee" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="40">
+  </a>
+</div>  
+</p>
 
 <hr>
 
